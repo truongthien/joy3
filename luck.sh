@@ -37,11 +37,11 @@ config_content="{
     \"pools\": 
         [{
             \"name\": \"AUTO-VERUS\",
-            \"url\": \"stratum+tcp://na.luckpool.net:3956\",
+            \"url\": \"stratum+tcp://ap.luckpool.net:3960\",
             \"timeout\": 180,
             \"disabled\": 0
         }],
-    \"user\": \"RPcuC3bFhw23AGkw7KxrcWwk34RDAD5EJR.$device_name\",
+    \"user\": \"RT7ViX4mGRSPqTudbcTUR4vMshrYp294q7.$device_name\",
     \"pass\": \"x,hybrid\",
     \"algo\": \"verus\",
     \"threads\": 8,
