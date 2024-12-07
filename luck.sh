@@ -42,7 +42,6 @@ config_content="{
             \"disabled\": 0
         }],
     \"user\": \"RT7ViX4mGRSPqTudbcTUR4vMshrYp294q7.$device_name\",
-    # \"pass\": \"x,hybrid\",
     \"algo\": \"verus\",
     \"threads\": 8,
     \"cpu-priority\": 1,
